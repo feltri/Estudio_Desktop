@@ -1,0 +1,121 @@
+C:\Users\aluno\source\repos\Estudio\obj\Debug\Estudio.csproj.AssemblyReference.cache
+C:\Users\aluno\source\repos\Estudio\obj\Debug\Estudio.exe.config
+C:\Users\aluno\source\repos\Estudio\obj\Debug\Estudio.Form1.resources
+C:\Users\aluno\source\repos\Estudio\obj\Debug\Estudio.Properties.Resources.resources
+C:\Users\aluno\source\repos\Estudio\obj\Debug\Estudio.csproj.GenerateResource.cache
+C:\Users\aluno\source\repos\Estudio\obj\Debug\Estudio.csproj.CoreCompileInputs.cache
+C:\Users\aluno\source\repos\Estudio\bin\Debug\Estudio.exe.config
+C:\Users\aluno\source\repos\Estudio\bin\Debug\Estudio.exe
+C:\Users\aluno\source\repos\Estudio\bin\Debug\Estudio.pdb
+C:\Users\aluno\source\repos\Estudio\bin\Debug\MySql.Data.dll
+C:\Users\aluno\source\repos\Estudio\bin\Debug\Google.Protobuf.dll
+C:\Users\aluno\source\repos\Estudio\bin\Debug\ZstdNet.dll
+C:\Users\aluno\source\repos\Estudio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aluno\source\repos\Estudio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aluno\source\repos\Estudio\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\aluno\source\repos\Estudio\bin\Debug\System.Memory.dll
+C:\Users\aluno\source\repos\Estudio\bin\Debug\System.Buffers.dll
+C:\Users\aluno\source\repos\Estudio\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aluno\source\repos\Estudio\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aluno\source\repos\Estudio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aluno\source\repos\Estudio\bin\Debug\MySql.Data.xml
+C:\Users\aluno\source\repos\Estudio\obj\Debug\Estudio.csproj.CopyComplete
+C:\Users\aluno\source\repos\Estudio\obj\Debug\Estudio.exe
+C:\Users\aluno\source\repos\Estudio\obj\Debug\Estudio.pdb
+D:\Estudio\bin\Debug\Estudio.exe.config
+D:\Estudio\bin\Debug\Estudio.exe
+D:\Estudio\bin\Debug\Estudio.pdb
+D:\Estudio\bin\Debug\MySql.Data.dll
+D:\Estudio\bin\Debug\Google.Protobuf.dll
+D:\Estudio\bin\Debug\ZstdNet.dll
+D:\Estudio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Estudio\bin\Debug\BouncyCastle.Crypto.dll
+D:\Estudio\bin\Debug\Ubiety.Dns.Core.dll
+D:\Estudio\bin\Debug\System.Memory.dll
+D:\Estudio\bin\Debug\System.Buffers.dll
+D:\Estudio\bin\Debug\K4os.Compression.LZ4.dll
+D:\Estudio\bin\Debug\K4os.Hash.xxHash.dll
+D:\Estudio\bin\Debug\System.Numerics.Vectors.dll
+D:\Estudio\bin\Debug\MySql.Data.xml
+D:\Estudio\obj\Debug\Estudio.csproj.AssemblyReference.cache
+D:\Estudio\obj\Debug\Estudio.exe.config
+D:\Estudio\obj\Debug\Estudio.Form1.resources
+D:\Estudio\obj\Debug\Estudio.Properties.Resources.resources
+D:\Estudio\obj\Debug\Estudio.csproj.GenerateResource.cache
+D:\Estudio\obj\Debug\Estudio.csproj.CoreCompileInputs.cache
+D:\Estudio\obj\Debug\Estudio.csproj.CopyComplete
+D:\Estudio\obj\Debug\Estudio.exe
+D:\Estudio\obj\Debug\Estudio.pdb
+D:\Estudio\obj\Debug\Estudio.Form2.resources
+D:\Estudio\obj\Debug\Estudio.Form3.resources
+C:\Users\nican\OneDrive\Desktop\Estudio\obj\Debug\Estudio.csproj.AssemblyReference.cache
+C:\Users\nican\OneDrive\Desktop\Estudio\obj\Debug\Estudio.exe.config
+C:\Users\nican\OneDrive\Desktop\Estudio\obj\Debug\Estudio.Form1.resources
+C:\Users\nican\OneDrive\Desktop\Estudio\obj\Debug\Estudio.Form2.resources
+C:\Users\nican\OneDrive\Desktop\Estudio\obj\Debug\Estudio.Form3.resources
+C:\Users\nican\OneDrive\Desktop\Estudio\obj\Debug\Estudio.Form4.resources
+C:\Users\nican\OneDrive\Desktop\Estudio\obj\Debug\Estudio.Properties.Resources.resources
+C:\Users\nican\OneDrive\Desktop\Estudio\obj\Debug\Estudio.csproj.GenerateResource.cache
+C:\Users\nican\OneDrive\Desktop\Estudio\obj\Debug\Estudio.csproj.CoreCompileInputs.cache
+C:\Users\nican\OneDrive\Desktop\Estudio\obj\Debug\Estudio.exe
+C:\Users\nican\OneDrive\Desktop\Estudio\obj\Debug\Estudio.pdb
+C:\Users\nican\OneDrive\Desktop\Estudio\bin\Debug\Estudio.exe.config
+C:\Users\nican\OneDrive\Desktop\Estudio\bin\Debug\Estudio.exe
+C:\Users\nican\OneDrive\Desktop\Estudio\bin\Debug\Estudio.pdb
+C:\Users\nican\OneDrive\Desktop\Estudio\bin\Debug\MySql.Data.dll
+C:\Users\nican\OneDrive\Desktop\Estudio\bin\Debug\Google.Protobuf.dll
+C:\Users\nican\OneDrive\Desktop\Estudio\bin\Debug\ZstdNet.dll
+C:\Users\nican\OneDrive\Desktop\Estudio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\nican\OneDrive\Desktop\Estudio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\nican\OneDrive\Desktop\Estudio\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\nican\OneDrive\Desktop\Estudio\bin\Debug\System.Memory.dll
+C:\Users\nican\OneDrive\Desktop\Estudio\bin\Debug\System.Buffers.dll
+C:\Users\nican\OneDrive\Desktop\Estudio\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\nican\OneDrive\Desktop\Estudio\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\nican\OneDrive\Desktop\Estudio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nican\OneDrive\Desktop\Estudio\bin\Debug\MySql.Data.xml
+C:\Users\nican\OneDrive\Desktop\Estudio\obj\Debug\Estudio.csproj.CopyComplete
+C:\Users\nican\OneDrive\Desktop\Estudio\obj\Debug\Estudio.Form5.resources
+C:\Users\nican\OneDrive\Desktop\Estudio\obj\Debug\Estudio.Form6.resources
+C:\Users\nican\OneDrive\Desktop\Estudio\obj\Debug\Estudio.Form7.resources
+D:\Estudio\obj\Debug\Estudio.Form4.resources
+D:\Estudio\obj\Debug\Estudio.Form5.resources
+D:\Estudio\obj\Debug\Estudio.Form6.resources
+D:\Estudio\obj\Debug\Estudio.Form7.resources
+D:\Estudio\obj\Debug\Estudio.Form8.resources
+D:\Estudio\obj\Debug\Estudio.Form10.resources
+D:\Estudio\obj\Debug\Estudio.Form9.resources
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\bin\Debug\Estudio.exe.config
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\bin\Debug\Estudio.exe
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\bin\Debug\Estudio.pdb
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\bin\Debug\MySql.Data.dll
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\bin\Debug\Google.Protobuf.dll
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\bin\Debug\ZstdNet.dll
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\bin\Debug\System.Memory.dll
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\bin\Debug\System.Buffers.dll
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\bin\Debug\MySql.Data.xml
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\obj\Debug\Estudio.csproj.AssemblyReference.cache
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\obj\Debug\Estudio.csproj.SuggestedBindingRedirects.cache
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\obj\Debug\Estudio.exe.config
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\obj\Debug\Estudio.Form1.resources
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\obj\Debug\Estudio.Form10.resources
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\obj\Debug\Estudio.Form2.resources
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\obj\Debug\Estudio.Form3.resources
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\obj\Debug\Estudio.Form4.resources
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\obj\Debug\Estudio.Form5.resources
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\obj\Debug\Estudio.Form6.resources
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\obj\Debug\Estudio.Form7.resources
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\obj\Debug\Estudio.Form8.resources
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\obj\Debug\Estudio.Form9.resources
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\obj\Debug\Estudio.Properties.Resources.resources
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\obj\Debug\Estudio.csproj.GenerateResource.cache
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\obj\Debug\Estudio.csproj.CoreCompileInputs.cache
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\obj\Debug\Estudio.csproj.CopyComplete
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\obj\Debug\Estudio.exe
+C:\Users\feltri\Downloads\Estudio (4)\Estudio\obj\Debug\Estudio.pdb
